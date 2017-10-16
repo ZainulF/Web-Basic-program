@@ -1,0 +1,120 @@
+.wrap{
+	background: url(https://c1.staticflickr.com/7/6093/6328300999_cc4feaf3b2_b.jpg) no-repeat fixed;
+	-webkit-background-size: 100% 100%;
+   -moz-background-size: 100% 100%;
+   background-size: 100% 100%;
+	margin: auto;
+}
+ 
+/*bagian header*/
+.banner{
+	clear:both;
+	padding: 5px 412px;
+	 border-bottom:1px solid black 
+	
+
+}
+.logo{
+display:inline-block;
+	width:250px;
+	float:right;
+	margin: -222px 219px;
+}
+ 
+/*bagian menu*/
+.menu{
+	
+}
+ 
+.menu ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 3px 309px;
+    overflow: hidden;
+    background-color: #808080;
+}
+ 
+.menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px 10px;
+	
+}
+.menu ul li a{
+display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+	 text-shadow:
+   0 0 3px #FFFFA0,
+   0 0 5px #FFFF4D,
+   0 0 9px #FFFF41,
+   0 0 20px #FFFF2A,
+   0 0 25px #FFFF2B,
+   0 0 30px #FEFE00,
+   0 0 40px #F7F700;
+}
+.menu ul li a:hover{
+	border-bottom:5px solid;
+}
+
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+ 
+/*akhir sidebar*/
+ 
+.wrap .badan .content{
+	float: right;
+	height: 100%;
+	width: 50%;
+	padding: 4px 0px
+}
+ 
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
+/*Biodata*/
+
+  table,tr,td{
+    background-color:;
+    font-family: Verdana;
+    color: black;
+    border: 0px;
+    padding: 10px;
+    border-collapse: collapse;
+ }
+ .h{
+    border: 8px groove yellow;
+    padding: 20px;
+ }
+
+ .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+/*Galeri*/
+ .tls{
+	 
+ }
